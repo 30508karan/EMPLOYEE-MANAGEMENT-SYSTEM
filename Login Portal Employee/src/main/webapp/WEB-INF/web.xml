@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+  <display-name>LOGIN SESSION</display-name>
+  <welcome-file-list>
+    <welcome-file>login.html</welcome-file>
+        <welcome-file>Style.css</welcome-file>
+  </welcome-file-list>
+ 
+</web-app>
